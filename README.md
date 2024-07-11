@@ -14,9 +14,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadabrarulhaq986" alt="GitHub profile trophy" /></a> 
 </p>
 
-<p align="left"> 
-  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" /></a> 
-</p>
+
 
 - 🌱 I’m currently learning **full stack development**
 - 👨‍💻 All of my projects are available at [https://github.com/MuhammadAbrarulhaq986](https://github.com/MuhammadAbrarulhaq986)
