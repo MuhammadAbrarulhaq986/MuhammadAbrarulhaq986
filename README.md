@@ -1,91 +1,18 @@
-<div align="center">
-
-![Header](https://capsule-render.com/api?type=waving&color=0:EC4899,100:22D3EE&height=220&section=header&text=Muhammad%20Abrar%20ul%20Haq&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20)
-
-<a href="https://github.com/MuhammadAbrarulhaq986">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+with+the+MERN+Stack;Learning+Something+New+Every+Day;Turning+Ideas+Into+Code" alt="Typing SVG" />
-</a>
-
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-EC4899?style=for-the-badge&logo=briefcase&logoColor=white)
-
-<img src="https://komarev.com/ghpvc/?username=MuhammadAbrarulhaq986&color=22D3EE&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/MuhammadAbrarulhaq986?style=for-the-badge&color=EC4899&labelColor=0D1117&logo=github" alt="Followers" />
-
-</div>
-
+I need your help to updated my GitHub Readme File here is my ReadME: <h1 align="center">Hi 👋, I'm Muhammad Abrar ul haq</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
+🔭 I’m currently working on different kinds of projects for practice and for  logic building <br><br>🌱 I’m currently learning full stack development<br>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abrar.ulhaq.986) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abrar-ul-haq-0a12ba3b5/) 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MuhammadAbrarulhaq986&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAbrarulhaq986&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbrarulhaq986&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MuhammadAbrarulhaq986&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 ---
-
-### 🧬 Who I Am
-
-```ts
-const muhammadAbrarUlHaq = {
-  title: "Full Stack Developer",
-  stack: [
-    "JavaScript", "TypeScript", "HTML5", "CSS3",
-    "React", "React Native", "Next.js", "Node.js", "Express.js",
-    "MongoDB", "Firebase", "C", "C#"
-  ],
-  launchedProjects: "Practice & logic-building projects (pinned on profile)",
-  certifications: [],
-  status: "Actively learning full stack development 🌱",
-  openTo: ["Full-time roles", "Freelance work", "Collaborations"],
-};
-```
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cs" /></p>
-
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind" /></p>
-
-**Backend / Infra**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,git,githubactions,postman" /></p>
-
-**Cloud / Database**
-<p><img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel" /></p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadAbrarulhaq986&show_icons=true&hide_border=true&theme=nord&title_color=EC4899&icon_color=22D3EE&text_color=C9D1D9&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbrarulhaq986&layout=compact&hide_border=true&theme=nord&title_color=EC4899&text_color=C9D1D9&bg_color=0D1117" width="48%" />
-
-<img src="https://streak-stats.demolab.com/?user=MuhammadAbrarulhaq986&hide_border=true&background=0D1117&ring=22D3EE&fire=EC4899&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8b949e" width="70%" />
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadAbrarulhaq986&theme=dracula&no-frame=true&no-bg=true&row=1&column=6" />
-
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAbrarulhaq986&bg_color=0D1117&color=22D3EE&line=EC4899&point=FFFFFF&hide_border=true" width="90%" />
-
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-EC4899?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abrar.ulhaq.986)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abrar-ul-haq-0a12ba3b5/)
-
-</div>
-
-![Footer](https://capsule-render.com/api?type=waving&color=0:22D3EE,100:EC4899&height=120&section=footer)
+[![](https://visitcount.itsvg.in/api?id=MuhammadAbrarulhaq986&icon=4&color=2)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
