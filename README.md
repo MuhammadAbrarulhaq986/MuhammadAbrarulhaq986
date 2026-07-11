@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Muhammad Abrar ul haq</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner pdf" src="https://github.com/user-attachments/assets/78b94392-f5d9-4d7f-819b-9f99c9c663c9" />
+
+
+<h1 align="center">Hi 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadabrarulhaq986&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadabrarulhaq986" /> </p>
 
