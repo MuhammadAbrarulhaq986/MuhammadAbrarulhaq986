@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner pdf" src="https://github.com/user-attachments/assets/78b94392-f5d9-4d7f-819b-9f99c9c663c9" />
+<img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner pdf" src="https://github.com/user-attachments/assets/aed11963-4bce-49f6-a0a9-e6e2ff799f3a" />
+
 # 💫 About Me:
 🔭 I’m currently doing bachelor in Computer Science<br>🤝 I’m looking for an internship <br>🌱 I’m currently learning Full stack Development <br>
 
